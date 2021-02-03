@@ -9,4 +9,5 @@ The task is to build a Machine Learning pipeline for the classification. Include
   - Exploratory Data Analysis (EDA)
   - Implementation of data cleaning and feature extraction based on EDA 
   - Modeling pipeline
-  - Model validation and intepretation
+  - Model validation and tuning 
+  - Model intepretation
