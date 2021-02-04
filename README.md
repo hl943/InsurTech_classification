@@ -11,3 +11,5 @@ The task is to build a Machine Learning pipeline for the classification. Include
   - Modeling pipeline
   - Model validation and tuning 
   - Model intepretation
+  
+ **In the case where the notebook does not render, please follow this link to view the notebook as per unresolved GitHub bug**: https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11 
